@@ -1,4 +1,4 @@
-const DEFAULT_API_URL = "http://45.63.104.136:3100";
+const DEFAULT_API_URL = "http://104.156.246.8:3100";
 
 export function getApiUrl(): string {
   return process.env.HUB_ORACLE_API_URL || DEFAULT_API_URL;
