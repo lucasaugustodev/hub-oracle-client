@@ -59,7 +59,7 @@ Add to your Claude Code settings:
 | Variable | Description | Default |
 |----------|-------------|---------|
 | `HUB_ORACLE_API_KEY` | Your API key (required) | - |
-| `HUB_ORACLE_API_URL` | API server URL | `http://104.156.246.8:3100` |
+| `HUB_ORACLE_API_URL` | API server URL | `https://db.somosahub.us` |
 
 ## Security
 
